@@ -10,4 +10,4 @@ panorama_7019BAED_7B90_F8C2_41CE_4A71E4C9EC62.label = Theatro São João
 ### Description
 
 ### Title
-tour.name = Sem Título 9
+tour.name = Vista Aérea Sobral
