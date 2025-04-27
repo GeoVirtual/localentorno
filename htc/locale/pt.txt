@@ -1,0 +1,18 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_90A32D3D_9FFC_8EA5_41D7_6C7E41024916.source = //www.youtube.com/embed/7VWNlex0ojo?feature=shared
+
+## Media
+
+### Title
+panorama_7019BAED_7B90_F8C2_41CE_4A71E4C9EC62.label = Theatro São João
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vista Aérea Sobral
